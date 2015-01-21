@@ -1,4 +1,4 @@
 # techclub-training
 Techclub Masterclass Github
 
-Text. 
+Local aangepaste bestanden committen
